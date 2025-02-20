@@ -4,7 +4,7 @@
 This project analyzes Blinkit's grocery sales using **Tableau** to uncover sales trends, outlet performance, and item popularity.
 
 ## 📂 Dataset Used
-- **Dataset:** [Blinkit Sales Data](dataset.csv) *(Upload if possible)*
+- **Dataset:** [Blinkit Sales Data](Tableau_BlinkIT_Grocery_Product_Dataset.csv) 
 - **Tool Used:** Tableau
 
 ## 📈 Key Insights from the Dashboard
